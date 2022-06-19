@@ -21,6 +21,9 @@
     rdfs:label "(1603:16:624:2)" ;
     skos:member <urn:mdciii:1603:16:624:2:102>, <urn:mdciii:1603:16:624:2:103>, <urn:mdciii:1603:16:624:2:104>, <urn:mdciii:1603:16:624:2:105>, <urn:mdciii:1603:16:624:2:106>, <urn:mdciii:1603:16:624:2:201>, <urn:mdciii:1603:16:624:2:202>, <urn:mdciii:1603:16:624:2:203>, <urn:mdciii:1603:16:624:2:301>, <urn:mdciii:1603:16:624:2:302>, <urn:mdciii:1603:16:624:2:303>, <urn:mdciii:1603:16:624:2:304>, <urn:mdciii:1603:16:624:2:401>, <urn:mdciii:1603:16:624:2:402>, <urn:mdciii:1603:16:624:2:403>, <urn:mdciii:1603:16:624:2:404>, <urn:mdciii:1603:16:624:2:405>, <urn:mdciii:1603:16:624:2:406>, <urn:mdciii:1603:16:624:2:501>, <urn:mdciii:1603:16:624:2:502>, <urn:mdciii:1603:16:624:2:503>, <urn:mdciii:1603:16:624:2:504>, <urn:mdciii:1603:16:624:2:505>, <urn:mdciii:1603:16:624:2:601>, <urn:mdciii:1603:16:624:2:602>, <urn:mdciii:1603:16:624:2:603>, <urn:mdciii:1603:16:624:2:604>, <urn:mdciii:1603:16:624:2:605>, <urn:mdciii:1603:16:624:2:701>, <urn:mdciii:1603:16:624:2:702>, <urn:mdciii:1603:16:624:2:703>, <urn:mdciii:1603:16:624:2:704>, <urn:mdciii:1603:16:624:2:800>, <urn:mdciii:1603:16:624:2:901>, <urn:mdciii:1603:16:624:2:902>, <urn:mdciii:1603:16:624:2:903>, <urn:mdciii:1603:16:624:2:904>, <urn:mdciii:1603:16:624:2:905> .
 
+<urn:mdciii:1603:16:624:2(1)>
+    a owl:Ontology .
+
 <urn:mdciii:1603:16:624:2:101>
     obo:BFO_0000124 <urn:mcdiii:1603:16:624:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:624:1:1> ;
